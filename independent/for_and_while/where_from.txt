@@ -1,0 +1,20 @@
+
+https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/loops/exercises_loops.html  : all done problems done
+    rand_guesser.py
+    hobbies.py
+    convert_a_to_x.py
+    digit_sum.py
+    factorial.py
+    scrabble.py
+    count.py
+    items_in_lists.py
+
+https://www.practicepython.org/
+    100age.py
+    less_than_ten.py
+    factors.py
+    list_overlap.py
+    
+unknown:
+    n_plus_k.py
+ 
